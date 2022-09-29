@@ -1,0 +1,60 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = BootstrapBlazorApp.Shared
+build_property.RootNamespace = BootstrapBlazorApp.Shared
+build_property.ProjectDir = D:\code\code2022\Project\BootstrapBlazorApp\BootstrapBlazorApp\BootstrapBlazorApp.Shared\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\code\code2022\Project\BootstrapBlazorApp\BootstrapBlazorApp\BootstrapBlazorApp.Shared
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/code/code2022/Project/BootstrapBlazorApp/BootstrapBlazorApp/BootstrapBlazorApp.Shared/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/code2022/Project/BootstrapBlazorApp/BootstrapBlazorApp/BootstrapBlazorApp.Shared/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/code2022/Project/BootstrapBlazorApp/BootstrapBlazorApp/BootstrapBlazorApp.Shared/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/code2022/Project/BootstrapBlazorApp/BootstrapBlazorApp/BootstrapBlazorApp.Shared/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/code2022/Project/BootstrapBlazorApp/BootstrapBlazorApp/BootstrapBlazorApp.Shared/Pages/TableDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFibGVEZW1vLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/code2022/Project/BootstrapBlazorApp/BootstrapBlazorApp/BootstrapBlazorApp.Shared/Pages/Testpage1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdHBhZ2UxLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/code2022/Project/BootstrapBlazorApp/BootstrapBlazorApp/BootstrapBlazorApp.Shared/Pages/Users.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/code2022/Project/BootstrapBlazorApp/BootstrapBlazorApp/BootstrapBlazorApp.Shared/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/code2022/Project/BootstrapBlazorApp/BootstrapBlazorApp/BootstrapBlazorApp.Shared/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/code2022/Project/BootstrapBlazorApp/BootstrapBlazorApp/BootstrapBlazorApp.Shared/Shared/Widget.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFdpZGdldC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/code2022/Project/BootstrapBlazorApp/BootstrapBlazorApp/BootstrapBlazorApp.Shared/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 

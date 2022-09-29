@@ -1,0 +1,12 @@
+﻿@page "/testpage1"
+@inject NavigationManager na
+
+<h3>Testpage1</h3>
+<Button OnClick="NavTo">页面跳转</Button>
+
+@code {
+    public void NavTo(){
+        na.NavigateTo("/users");
+
+    }
+}
