@@ -1,15 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿namespace BootstrapBlazorApp.Shared.Model;
 
-namespace BootstrapBlazorApp.Shared.Model
+public class UserDto
 {
-    public class UserDto
-    {
-        public string Name { get; set; }
-
-        public string Token { get; set; }
-    }
+    public string Username { get; set; } = string.Empty;
+    public string Password { get; set; } = string.Empty;
 }

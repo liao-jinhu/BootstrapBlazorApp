@@ -1,5 +1,11 @@
-﻿<h3>Login</h3>
+﻿@page "/login"
+@using BootstrapBlazorApp.Shared.Model;
+@using System.Net.Http.Json
+@inject HttpClient Http
+
+<h3>Login</h3>
 
 @code {
+    UserDto user = new UserDto();
 
 }

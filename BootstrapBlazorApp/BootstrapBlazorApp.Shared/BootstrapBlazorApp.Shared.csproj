@@ -11,16 +11,19 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Remove="Model\Dtos\**" />
     <Content Remove="Locales\*.json" />
+    <Content Remove="Model\Dtos\**" />
     <EmbeddedResource Include="Locales\*.json" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="BootstrapBlazor" Version="6.*" />
+    <EmbeddedResource Remove="Model\Dtos\**" />
+    <None Remove="Model\Dtos\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Model\Dtos\" />
+    <PackageReference Include="BootstrapBlazor" Version="6.*" />
   </ItemGroup>
 
 </Project>
